@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677307668382",
+    "firebase_url": "https://kotlinmessenger-16e51.firebaseio.com",
+    "project_id": "kotlinmessenger-16e51",
+    "storage_bucket": "kotlinmessenger-16e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677307668382:android:9460d9e4525d045f04288f",
+        "android_client_info": {
+          "package_name": "com.example.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677307668382-256b89jvd2huvr7egd1t7cpfo7trqjgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzM3uIzQQfkgUc3NwfSo3zSpOBkjtgRcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677307668382-256b89jvd2huvr7egd1t7cpfo7trqjgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
